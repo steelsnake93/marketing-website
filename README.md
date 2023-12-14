@@ -76,5 +76,12 @@ Contributions are welcome! To contribute to this project, please fork the reposi
 for React and the Static Web by [Colby Fayock
 ](https://github.com/colbyfayock).
 
+## Image Credits
+
+- Feature 1 section images: Images by [Minh Phuc](https://www.pexels.com/photo/home-working-space-with-a-computer-desk-and-a-roller-blind-on-a-window-19304053/) from [Pexels](https://www.pexels.com)
+- Feature 2 section images: Images by [Assedrani Official](https://www.pexels.com/photo/lens-on-a-table-19427315/) from [Pexels](https://www.pexels.com)
+- Feature 3 section images: Images by [Matheus Bertelli](https://www.pexels.com/photo/yashica-analog-camera-19303925/) from [Pexels](https://www.pexels.com)
+- Feature 4 section images: Images by [Beyzaa Yurtkuran](https://www.pexels.com/photo/a-laptop-on-a-table-19419467/) from [Pexels](https://www.pexels.com)
+
 ### License
 This project is licensed under the [MIT License](https://github.com/steelsnake93/marketing-website/blob/main/LICENSE).
