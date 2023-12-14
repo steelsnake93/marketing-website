@@ -1,6 +1,3 @@
-# marketing-website
-Marketing website with a landing page for a new technology product.
-=======
 # Marketing Website
 
 ## Description
@@ -74,10 +71,10 @@ After starting the development server, you can navigate through the website usin
 ### Contributing
 Contributions are welcome! To contribute to this project, please fork the repository and create a pull request.
 
-### License
-This project is licensed under the [MIT License](https://github.com/steelsnake93/marketing-website/blob/main/LICENSE).
-
 ### Acknowledgments
 - This project was inspired from 50 Projects
 for React and the Static Web by [Colby Fayock
 ](https://github.com/colbyfayock).
+
+### License
+This project is licensed under the [MIT License](https://github.com/steelsnake93/marketing-website/blob/main/LICENSE).
