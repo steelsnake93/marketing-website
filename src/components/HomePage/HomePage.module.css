@@ -1,0 +1,30 @@
+.homePage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #e6e7ea;
+    border-radius: 0.3em;
+    padding: 2em;
+    margin: 20px;
+    text-align: center;
+}
+
+.primaryButton {
+    background-color: #1e967e;
+    color: white;
+    margin-right: 10px;
+}
+
+.secondaryButton {
+    background-color: #f8f8f8;
+    color: #000;
+}
+
+.button {
+    font-size: 1.5em;
+}
+
+.contactButton {
+    background-color: #026ee9;
+    color: #fff;
+}

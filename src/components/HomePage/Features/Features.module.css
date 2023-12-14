@@ -1,0 +1,57 @@
+.features {
+    display: flex;
+    gap: 10px;
+    text-align: left;
+    padding: 2.5em;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.featureItem {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 250px;
+}
+
+.imgBox {
+    width: 100%;
+}
+
+.featureItem img {
+    border-radius: 5px;
+}
+
+.featureItem .title {
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.featureItem .description {
+    font-size: 14px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.moreBtn {
+    display: flex;
+    justify-content: end;
+}
+
+.featureButton {
+    background-color: #2d8fff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+}
+
+.arrow {
+    font-size: 20px;
+}
+ 
